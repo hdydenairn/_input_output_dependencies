@@ -1,0 +1,16 @@
+Industry,Stage,N,HHI,HHI_norm,Eff_N_hhi,CR1,CR3,CR5,Entropy,Entropy_norm,Eff_N_entropy,SelfReliance
+Electrical machinery and apparatus n.e.c. (31),Tertiary,36,0.209,0.186,4.784,0.316,0.739,0.888,1.895,0.529,6.65,0.316
+"Fabricated metal products, except machinery and equipment (28)",Tertiary,49,0.346,0.333,2.889,0.572,0.723,0.81,1.844,0.474,6.323,0.572
+Machinery and equipment n.e.c. (29),Tertiary,31,0.331,0.309,3.02,0.531,0.828,0.918,1.577,0.459,4.843,0.531
+Aluminium and aluminium products,Secondary,49,0.235,0.219,4.254,0.38,0.764,0.825,1.992,0.512,7.334,0.38
+Basic iron and steel and of ferro-alloys and first products thereof,Secondary,49,0.331,0.317,3.025,0.548,0.749,0.819,1.82,0.468,6.171,0.548
+Copper products,Secondary,49,0.338,0.325,2.954,0.561,0.738,0.832,1.806,0.464,6.084,0.561
+"Lead, zinc and tin and products thereof",Secondary,49,0.333,0.319,3.002,0.499,0.821,0.865,1.649,0.424,5.201,0.282
+Other non-ferrous metal products,Secondary,49,0.108,0.089,9.302,0.19,0.473,0.658,2.62,0.673,13.739,0.096
+Precious metals,Secondary,49,0.067,0.048,14.857,0.14,0.312,0.462,2.936,0.755,18.848,0.072
+Aluminium ores and concentrates,Primary,19,0.193,0.148,5.188,0.382,0.593,0.754,2.052,0.697,7.783,0.0
+Copper ores and concentrates,Primary,27,0.888,0.883,1.127,0.941,0.985,0.992,0.307,0.093,1.36,0.036
+"Lead, zinc and tin ores and concentrates",Primary,31,0.361,0.34,2.772,0.559,0.843,0.918,1.495,0.435,4.46,0.097
+Nickel ores and concentrates,Primary,23,0.182,0.145,5.482,0.308,0.656,0.858,1.964,0.626,7.124,0.0
+Other non-ferrous metal ores and concentrates,Primary,35,0.157,0.132,6.378,0.259,0.616,0.8,2.216,0.623,9.167,0.259
+Precious metal ores and concentrates,Primary,29,0.379,0.357,2.636,0.583,0.846,0.921,1.479,0.439,4.39,0.11
